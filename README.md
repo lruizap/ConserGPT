@@ -1,23 +1,67 @@
 # ConserGPT
 
-La forma para poder ejecutar este modelo en local es el siguiente:
+ConserGPT es una interfaz de conversación que utiliza el modelo Command R+ de OpenAI para proporcionar respuestas a preguntas relacionadas con el sistema educativo andaluz. Esta interfaz está diseñada para ayudar a responder preguntas específicas sobre programas educativos, normativas y políticas en Andalucía.
 
-1. Introduce los archivos que quieras añadir al dataset (deben de ser .md)
-2. Instala todas las dependencias de requirements.txt (pueden que falte alguna)
-3. Añada sus API KEYS a .env, debe de ser con los nombres que estan en el código 
-4. Ejectute app.py y disfrute del modelo.
+## Características
 
-## Trazas del Langfuse:
-### Pregunta Comun:
-https://cloud.langfuse.com/project/clrtefqpf000027pg1fyoavq8/traces/29c29f7e-9587-4efb-a401-452270b1f010?observation=3fa5f734-586f-4a71-938b-debc74551239
+- Interfaz de conversación basada en Gradio.
+- Utiliza el modelo Command R+ de OpenAI para generar respuestas.
+- Proporciona información sobre programas educativos, normativas y políticas en Andalucía.
+- Incluye un archivo .env para la configuración de las variables de entorno.
 
-### Pregunta Comun:
-https://cloud.langfuse.com/project/clrtefqpf000027pg1fyoavq8/traces/29c29f7e-9587-4efb-a401-452270b1f010?observation=a56200b5-d19e-4cba-93ed-14ec63337d41
+## Inicialización del Proyecto
 
-### Agente:
-https://cloud.langfuse.com/project/clrtefqpf000027pg1fyoavq8/traces/29c29f7e-9587-4efb-a401-452270b1f010?observation=3408165b-510c-42b5-89d1-7f13a917f556
+1. Clona este repositorio en tu máquina local:
 
-### Agente:
-https://cloud.langfuse.com/project/clrtefqpf000027pg1fyoavq8/traces/29c29f7e-9587-4efb-a401-452270b1f010?observation=3fa5f734-586f-4a71-938b-debc74551239
+```bash
+git clone https://github.com/lruizap/ConserGPT.git
+```
 
-https://view.genial.ly/65805d10850fa600146ed98b/presentation-consergpt
+2. Crea un entorno virtual para el proyecto:
+
+```bash
+cd ConserGPT
+python -m venv venv
+```
+
+3. Activa el entorno virtual:
+
+- En Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+- En macOS y Linux:
+
+```bash
+source venv/bin/activate
+```
+
+4. Instala las dependencias del proyecto:
+
+```bash
+pip install -r requirements.txt
+```
+
+5. Crea un archivo `.env` en el directorio raíz del proyecto y añade las siguientes variables de entorno:
+
+```plaintext
+OPENROUTER_API_KEY=your_openrouter_api_key
+LANGFUSE_PRIVATE_API_KEY=your_langfuse_private_api_key
+LANGFUSE_PUBLIC_API_KEY=your_langfuse_public_api_key
+```
+
+Asegúrate de reemplazar `your_openrouter_api_key`, `your_langfuse_private_api_key` y `your_langfuse_public_api_key` con tus propias claves API.
+
+6. Ejecuta la aplicación:
+
+```bash
+python app.py
+```
+
+7. Accede a la aplicación en tu navegador web utilizando la URL proporcionada en la terminal.
+
+## Uso
+
+Una vez que la aplicación esté en funcionamiento, podrás seleccionar una pregunta predefinida sobre el sistema educativo andaluz y obtener una respuesta generada por el modelo Command R+ de OpenAI.
