@@ -1,8 +1,8 @@
 import os
 from langchain.text_splitter import MarkdownHeaderTextSplitter
-from langchain.vectorstores import Chroma
-from langchain.embeddings import HuggingFaceBgeEmbeddings
-from langchain.document_loaders import PyPDFLoader
+from langchain_community.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+from langchain_community.document_loaders import PyPDFLoader
 import shutil
 import time
 
@@ -22,7 +22,7 @@ md_folder_path = os.path.join(script_directory, "md_folder")
 mdToIngest_path = os.path.join(script_directory, "mdToIngest")
 
 
-for filename in os.listdir(mdToIngest_path):    
+for filename in os.listdir(mdToIngest_path):
     try:
         # Construye la ruta completa del archivo
         file_path = os.path.join(mdToIngest_path, filename)
@@ -31,29 +31,33 @@ for filename in os.listdir(mdToIngest_path):
         with open(file_path, "r", encoding="utf-8") as archivo:
             contenido = archivo.read()
             print(f"Se leyó el archivo '{file_path}'.")
-            
+
+            primera_linea, contenido = contenido.split('\n', 1)
+
             headersToSplitOn = [("#", "Header"), ("##", "Title")]
 
-            markdown_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headersToSplitOn)
+            markdown_splitter = MarkdownHeaderTextSplitter(
+                headers_to_split_on=headersToSplitOn)
             md_header_splits = markdown_splitter.split_text(contenido)
 
             for document in md_header_splits:
                 lista = []
-                
+                document.metadata['source'] = primera_linea
                 # Extraer y mostrar los metadatos
                 metadata = document.metadata
+                print(f"Metadatos: {metadata}")
                 page_content = document.page_content
                 for key, value in metadata.items():
                     lista.append(f"{value}{page_content}")
 
-            vector_store = Chroma.from_documents(md_header_splits, embeddings, collection_metadata={"hnsw:space": "cosine"}, persist_directory="stores/ConserGPT")
-                        
+            vector_store = Chroma.from_documents(md_header_splits, embeddings, collection_metadata={
+                                                 "hnsw:space": "cosine"}, persist_directory="stores/ConserGPT")
+
             try:
                 shutil.move(file_path, ruta_destino)
                 print(f'Archivo movido a {ruta_destino} exitosamente.')
             except shutil.Error as e:
                 print(f'Ocurrió un error al mover el archivo: {e}')
-
 
     except Exception as e:
         print(f'Ocurrió un error al leer el archivo: {e}')
