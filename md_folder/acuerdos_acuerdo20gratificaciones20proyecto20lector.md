@@ -1,64 +1,52 @@
-Página núm. BOJA núm. Sevilla, de diciembre año con sujeción a las bases reguladoras aprobadas por 
-Orden de de julio de 2005.
-Contra el presente Acuerdo, que deberá ser publicado en 
-los tablones de anuncios de la Consejería de Empleo y sus Delegaciones Provinciales y, simultáneamente, en Boletín Oficial 
-de la Junta de Andalucía, no cabrá recurso alguno, de conformidad con lo dispuesto en el artículo 42.6 de la Ley 30/1992, 
-de de noviembre.
-Sevilla, de noviembre de ANTONIO FERNÁNDEZ GARCÍA
-Consejero de Empleo 
- CONSEJERÍA DE EDUCACIÓN
-ACUERDO de de noviembre de 2008, del Consejo de Gobierno, por el que se establece la cuantía 
-de las gratificaciones por servicios extraordinarios prestados fuera de la jornada laboral por el profesorado 
-que coordina proyectos lectores y planes de uso de las 
-bibliotecas escolares en los centros docentes públicos 
-dependientes de la Consejería de Educación.
-El Plan de Lectura y Bibliotecas Escolares en los Centros 
-Educativos Públicos de Andalucía, aprobado por Acuerdo del Consejo de Gobierno de de enero de 2007, nació con el propósito de facilitar a los niños y niñas y a los jóvenes el desarrollo de prácticas lectoras y habilidades intelectuales e incorporar el uso regular de la biblioteca escolar como recurso de apoyo para el aprendizaje permanente.
-Entre las medidas incluidas en el Plan se contempla la 
-implantación de proyectos lector es y planes de utilización de 
-las bibliotecas escolares en los centros docentes públicos de-pendientes de la Consejería de Educación, con el fin de crear oportunidades lectoras entre el alumnado por medio de un 
-continuo ambiente de vivencias,  interacciones, reflexiones en 
-torno a la lectura y desarrollar habilidades intelectuales y de uso de los recursos bibliotecarios, incentivando el concepto de escuela como comunidad de lectores.
-La implantación de estos proyectos lectores y planes de 
-utilización de las bibliotecas escolares se ha venido realizando al amparo de lo establecido en la Orden de de mayo de 2007, por la que se modifica la de de julio de 2006, por la que se regula el procedimiento para la elaboración, solicitud, aprobación, aplicación, seguimiento y evaluación de los pla-nes y proyectos educativos que puedan desarrollar los centros docentes sostenidos con fondos públicos y que precisen de 
-aprobación de la Administración educativa.
-En la Orden mencionada se contempla que el programa 
-contará, en cada centro docente donde se desarrolle, con un profesor o profesora que realice las funciones de coordinación del mismo. La normativa recoge también que el coordinador o coordinadora tendrá derecho a percibir una gratificación por 
-servicios extraordinarios prestados fuera de la jornada laboral normal, de acuerdo con lo establecido en el artículo 46.3.* de la Ley 6/1985, de de no viembre, de la Función Pública 
-de la Junta de Andalucía. La cuantía de dichas gratificaciones deberá ser aprobada por el Consejo de Gobierno.
-En su tramitación, el presente Acuerdo ha sido sometido 
-a la consideración de la Mesa Sectorial de Educación en la sesión realizada el día de noviembre de 2008, de acuerdo con lo previsto en el artículo 37.1.* de la Ley 7/2007, de 
-de abril, del Estatuto Básico del Empleado Público.En su virtud, a propuesta de la Consejera de Educación, 
-con informe favorable de las Consejerías de Economía y Ha-cienda y de Justicia y Administración Pública, y previa delibe-ración, el Consejo de Gobierno, en su reunión del día de noviembre de 2008,
+ACUERDO de 25 de noviembre de 2008, del Consejo de Gobierno, por el que se establece la cuantía de las gratificaciones por servicios extraordinarios prestados fuera de la jornada laboral por el profesorado que coordina proyectos lectores y planes de uso de las bibliotecas escolares en los centros docentes públicos dependientes de la Consejería de Educación.
+Página núm. BOJA núm. Sevilla, de julio  CONSEJERÍA DE EDUCACIÓN
+ACUERDO de de julio de 2008, del Consejo de Gobierno, por el que se establece la prestación gratuita del 
+servicio complementario de transporte escolar al alumnado de Bachillerato y Formación Profesional inicial.
+Uno de los objetivos prioritarios de la política educativa 
+andaluza durante la presente legislatura es el de aumentar las 
+tasas de escolarización en las enseñanzas postobligatorias de Bachillerato y Formación Profesional inicial, toda vez que el nivel de estudios o formación que alcance la ciudadanía tiene una importancia decisiva para ellos y para la sociedad a la que pertenecen.
+De esta forma, la prolongación de la escolarización, una 
+vez concluida la enseñanza obligatoria, ha cobrado cada vez una importancia mayor en las sociedades avanzadas. Hasta tal punto esto es así que la Unión Europea considera que los jóvenes de a años que han completado como máximo la Educación Secundaria Obligatoria y no siguen ningún estudio o formación posterior son víctimas del denominado abandono escolar prematuro. 
+El aumento de las tasas de escolarización en las etapas 
+de Bachillerato y Formación Profesional exige adoptar medidas 
+que garanticen la correcta prestación de este servicio, entre las que se encuentran aquellas que permitan la escolarización del alumnado en un centro docente público ubicado en una localidad distinta a la de su residencia por inexistencia en la misma de la etapa educativa correspondiente.
+En su virtud, a propuesta de la Consejera de Educación, 
+previo informe de la Consejería de Economía y Hacienda, el Consejo de Gobierno, en su reunión del día de julio de 2008,
 ACUERDA
 # Primero
-. Gratificación.
-El profesor o profesora que sea designado coordinador del 
-programa «Proyectos lectores y planes de uso de las bibliotecas escolares» en cada centro docente público dependiente de la Consejería de Educación autorizado para su desarrollo recibirá 
-por este concepto y para la realización fuera de la jornada labo-ral de las funciones propias de dicha actividad una gratificación 
-por servicios extraordinarios de euros por hora dedicada a 
-estas actuaciones, hasta un máximo de euros al mes.
+. La prestación del servicio complementario de 
+transporte escolar a partir del curso 2008/09 será gratuita para el alumnado escolarizado en las enseñanzas de Bachillerato y Formación Profesional inicial, a excepción del matriculado en la modalidad de personas adultas, siempre que esté obligado a desplazarse fuera de su localidad de residencia por inexistencia en la misma de la etapa educativa correspondiente.
 # Segundo
-. Abono.
-La gratificación a este profesorado se abonará en un 
-único pago, una vez que se haya acreditado la realización de los servicios extraordinarios, sin que esta gratificación origine ningún derecho de tipo individual respecto a ejercicios econó-micos posteriores.
+. El objeto del servicio complementario de transporte escolar es facilitar el desplazamiento del alumnado de estos niveles educativos desde su localidad de residencia al centro público propuesto por la Administración educativa.
 # Tercero
-. Actualización.
-Las cuantías de las gratificaciones a que se refiere el 
-punto # Primero
- del presente Acuerdo se podrán actualizar me-diante Orden de la Consejería de Educación publicada en el Boletín Oficial de la Junta de Andalucía, conforme a lo que se disponga en la Ley del Presupuesto de la Comunidad Autó-noma de Andalucía para cada año en relación a las retribucio-nes complementarias del personal funcionario.
+. Para el traslado del alumnado que prevé el apartado anterior se podrá ampliar el número de plazas disponi-bles en rutas de transporte escolar ya existentes o en los ser-vicios de transporte público regular de viajeros de uso general, modificar rutas establecidas para recoger o dejar al alumnado que se incorpora al servicio o crear rutas nuevas cuando sea necesario, todo ello de acuerdo con la planificación educativa.
 # Cuarto
-. Efectos.
-El presente Acuerdo surtirá efectos a partir del día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía y extenderá su vigencia mientras se desarrolle el programa «Proyectos lectores y planes de uso de las bibliote-cas escolares» en los centros docentes públicos cuya titulari-dad corresponde a la Consejería de Educación.
-Sevilla, de noviembre de MANUEL CHAVES GONZÁLEZ
+. Se concederán ayudas individualizadas en aquellos casos de alumnado que desee cursar el Bachillerato de artes o ciclos formativos de Formación Profesional inicial que, por su especificidad y dificultad de generalización, se encuen-tren implantados en centros do centes públicos alejados de 
+su localidad de origen y no sea posible establecer rutas de transporte o prestar el servicio mediante la reserva de plazas en servicios de transporte público regular de viajeros de uso general.Las cuantías de las ayudas individualizadas serán las establecidas anualmente por la Consejería de Educación para el 
+alumnado de la enseñanza obligatoria.
+# Quinto
+. La prestación gratuita del servicio complementario de transporte escolar será incompatible con la percepción de cualquier otra subvención o ayuda para la misma finalidad, procedentes de cualesquiera Administraciones o entes públi-cos o privados, nacionales o internacionales.
+Asimismo , en el caso de las a yudas individ ualizadas de 
+transporte, deberá comunicarse a la Consejería de Educación la obtención de otras subvenciones o ayudas para la misma finalidad, procediendo el reinte gro del exceso obtenido, en su 
+caso, sobre el coste de la actividad subvencionada.
+Sevilla, de julio de MANUEL CHAVES GONZÁLEZ
 Presidente de la Junta de Andalucía
 TERESA JIMÉNEZ VÍLCHEZ
 Consejera de Educación 
- RESOLUCIÓN de de noviembre de 2008, de la 
-Delegación Provincial de Sevilla, por la que se acuerda 
-la remisión del expediente administrativo requerido por 
-el Juzgado de lo Contencioso-Administrativo núm. Siete de Sevilla en el recurso núm. 540/2008, promovido 
-por doña María Isabel Molina del Castillo, y se notifica a 
-los posibles interesados la interposición del mismo.
-Por el Juzgado de lo Contencioso-Administrativo número 
-Siete de Sevilla se ha efectuado requerimiento para que se aportase el expediente administrativo correspondiente al recurso núm. 540/2008, interpuesto por doña María Isabel M o l i n a  d e l  C a s t i l l o  c o n t r a  l a  R e s o l u c i ó n  d e  e s t a  D e l e g a c i ó n  Provincial de Sevilla de la Consejería de Educación de la Junta de Andalucía de fecha de julio de 2008, que estima parcial-mente la reclamación interpuesta contra el acuerdo del Sr./ Sra. titular del C.C. San Fernando-Maristas, de Sevilla, en el primer curso de Educación Primaria, para el curso escolar 2008/09, y para que se realizasen los emplazamientos de los posibles interesados correspondientes a dicho recurso.
+ ACUERDO de de julio de 2008, del Consejo de 
+Gobierno, por el que se aprueba el Acuerdo sobre la 
+cuantía de la gratificación extraordinaria por jubilación a 
+percibir por los funcionarios y funcionarias docentes que 
+se acojan a lo establecido en el apartado de la disposición transitoria segunda de la Ley Orgánica 2/2006, 
+de de mayo, de Educación.
+Con fecha de marzo de la Consejería de Educación y las organizaciones sindicales CC.OO., ANPE-A, CSI-CSIF 
+y FETE-UGT suscribieron un Acuerdo para la mejora del sis-tema educativo andaluz.
+En desarrollo del mismo, con fecha de julio de fue 
+suscrito el Acuerdo que se incorpora como Anexo I, sobre la cuantía de la gratificación extraordinaria por jubilación a per-cibir por los funcionarios docentes que se acojan a lo estable-cido en el apartado de la disposición transitoria segunda de 
+la Ley Orgánica 2/2006, de de mayo, de Educación. Dicho Acuerdo ha sido negociado en el seno de la Mesa Sectorial de Educación, con participación de las organizaciones que la in-tegran y constituida al efecto, de conformidad con lo recogido en los artículos 34.4, 37.1 y 38.4 de la Ley 7/2007, de de abril, del Estatuto Básico del Empleado Público.
+La Comunidad Autónoma de Andalucía ostenta la competencia para proceder al incremento de la cuantía de la gratifi-cación extraordinaria por jubilaci ón voluntaria anticipada a que 
+se refiere el presente Acuerdo, de conformidad con lo estable-cido en el artículo 52.2 de la Ley Orgánica 2/2007 , de de marzo, de Reforma del Estatuto  de Autonomía para Andalucía.
+La tramitación del citado Acuerdo se ha efectuado conforme a lo dispuesto en el artículo de la Ley 24/2007, de de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2008, debiendo ser aprobado ex-presamente para su validez y eficacia por el Consejo de Go-bierno, de acuerdo con lo dispuesto en el artículo 38.3 de la Ley 7/2007, de de abril, del Estatuto Básico del Empleado Público, y en el artículo 4.2.* de la Ley 6/1985, de de no-viembre, de la Función Pública de la Junta de Andalucía.
+En su virtud, a propuesta de la Consejera de Educación, 
+previo informe de las Consejerías de Economía y Hacienda y de Justicia y Administración Pública, previa deliberación del Consejo de Gobierno en su reunión del día de julio de 2008,
+ 
